@@ -1,5 +1,5 @@
 {
-  "name": "heimrichhannot-contao-components/Choices",
+  "name": "heimrichhannot-contao-components/choices",
   "description": "A shim repositoy for jshjohnson/Choices as contao component.",
   "type": "contao-component",
   "license": "MIT",
